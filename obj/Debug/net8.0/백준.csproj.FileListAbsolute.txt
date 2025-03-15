@@ -1,0 +1,14 @@
+/Users/namhyerim/Downloads/취업/포폴/백준/bin/Debug/net8.0/백준
+/Users/namhyerim/Downloads/취업/포폴/백준/bin/Debug/net8.0/백준.deps.json
+/Users/namhyerim/Downloads/취업/포폴/백준/bin/Debug/net8.0/백준.runtimeconfig.json
+/Users/namhyerim/Downloads/취업/포폴/백준/bin/Debug/net8.0/백준.dll
+/Users/namhyerim/Downloads/취업/포폴/백준/bin/Debug/net8.0/백준.pdb
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/백준.GeneratedMSBuildEditorConfig.editorconfig
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/백준.AssemblyInfoInputs.cache
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/백준.AssemblyInfo.cs
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/백준.csproj.CoreCompileInputs.cache
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/백준.dll
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/refint/백준.dll
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/백준.pdb
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/백준.genruntimeconfig.cache
+/Users/namhyerim/Downloads/취업/포폴/백준/obj/Debug/net8.0/ref/백준.dll
