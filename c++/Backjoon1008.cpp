@@ -1,8 +1,14 @@
-//
-//  Backjoon1008.cpp
-//  c++
-//
-//  Created by 남혜림 on 5/7/25.
-//
+#include <iostream>
+#include <iomanip>
+#include <limits>
 
-#include <stdio.h>
+using namespace std;
+
+int main() {
+    int A, B;
+    
+    cin >> A;
+    cin >> B;
+    
+    cout << setprecision(numeric_limits<double>::digits10 + 1) << (double)A / B << endl;
+}
